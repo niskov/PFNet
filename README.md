@@ -31,6 +31,11 @@ In addition, please add the project folder to PYTHONPATH and `pip install` the p
   - `python evaluate.py --dataset=/home/COCO --model=./pfnet.h5`
 
 ***
+### Demo
+- Run inference on custom image
+  - `python demo.py --model=path/to/pfnet.h5 --image=path/to/image.png
+  
+***
 ### Citing PFNet
 If you find PFNet useful in your research, please consider citing:
 ***
