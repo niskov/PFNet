@@ -33,7 +33,7 @@ In addition, please add the project folder to PYTHONPATH and `pip install` the p
 ***
 ### Demo
 - Run inference on custom image
-  - python demo.py --model=path/to/pfnet.h5 --image=path/to/image.png
+  - `python demo.py --model=path/to/pfnet.h5 --image=path/to/image.png`
   
 ***
 ### Citing PFNet
